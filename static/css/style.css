@@ -1,0 +1,52 @@
+.create_card {
+    height: 300px;
+}
+
+.tasks {
+    margin-left: 50px;
+}
+
+.tasks > card {
+    margin-bottom: 20px;
+    width: 600px !important;
+}
+
+#this_card {
+    width: 600px !important;
+}
+
+#this_card textarea {
+    width: 500px !important;
+    height: 150px !important;
+}
+
+.link-button {
+    color: black !important;
+}
+
+.card-header{
+    background: #235a91;
+    color:azure;
+}
+
+.card-body{
+    background: #e6ebf0;
+}
+
+.comment-header{
+    background: #235a91;
+    color:azure;
+}
+
+.comment-body{
+    background: #e6ebf0;
+}
+
+p{
+    background: #e6ebf0;
+}
+
+.flex-wrapper {
+    display: flex;
+    align-items: center;
+}
